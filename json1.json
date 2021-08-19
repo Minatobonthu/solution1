@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Technology",
+    "subtitle": "some text related to technology",
+    "body": "Early blogs were simply manually updated components of common Websites. In 1995, the Online Diary on the Ty, Inc. Web site was produced and updated manually before any blogging programs were available. Posts were made to appear in reverse chronological order by manually updating text based HTML code using FTP software in real time several times a day. To users, this offered the appearance of a live diary that contained multiple new entries per day. At the beginning of each new day, new diary entries were manually coded into a new HTML file, and the start of each month, diary entries were archived into its own folder which contained a separate HTML page for every day of the month. Then menus that contained links to the most recent diary entry were updated manually throughout the site. This text-based method of organizing thousands of files served as a springboard to define future blogging styles that were captured by blogging software developed years later."
+  },
+  {
+    "id": 2,
+    "title": "origin",
+    "subtitle": "Some text regarding the origin",
+    "body": "Before blogging became popular, digital communities took many forms including Usenet, commercial online services such as GEnie, Byte Information Exchange (BIX) and the early CompuServe, e-mail lists,[14] and Bulletin Board Systems (BBS). In the 1990s, Internet forum software created running conversations with threads. Threads are topical connections between messages on a virtual corkboard. From June 14, 1993, Mosaic Communications Corporation maintained their What's New[15] list of new websites, updated daily and archived monthly. The page was accessible by a special What's New button in the Mosaic web browser."
+  },
+  {
+    "id": 3,
+    "title": "Political Impact",
+    "subtitle": "Some text about political impact",
+    "body": "An early milestone in the rise in importance of blogs came in 2002, when many bloggers focused on comments by U.S. Senate Majority Leader Trent Lott.[23] Senator Lott, at a party honoring U.S. Senator Strom Thurmond, praised Senator Thurmond by suggesting that the United States would have been better off had Thurmond been elected president. Lott's critics saw these comments as a tacit approval of racial segregation, a policy advocated by Thurmond's 1948 presidential campaign. This view was reinforced by documents and recorded interviews dug up by bloggers. (See Josh Marshall's Talking Points Memo.) Though Lott's comments were made at a public event attended by the media, no major media organizations reported on his controversial comments until after blogs broke the story. Blogging helped to create a political crisis that forced Lott to step down as majority leader."
+  }
+]
